@@ -17,7 +17,7 @@ Using the given Kickstarter Data, I used a pivot table to display the data relat
 
 **Visualization**
 To visualize a data I created a line graph that displayed the number of successful, failed and canceled campaigns over each month. This graph allowed us to visualize how many campaigns were successful relative to the ones that failed or were canceled. Additionally, I also created a table that displayed the Percent Successful, Percent Failed and 	Percent Canceled campaigns. This allowed me to see the result of each campaign relative to the total campaigns that were run.
-See File Outcomes_vs_Goals.png for the Graph.
+See File Outcomes_vs_Goals.png for the Graph [https://github.com/JoePizz/UToronto_Assignments/blob/main/Outcomes_vs_Goals.png]
 
 
 **Analysis of Outcomes Based on Goals**
@@ -27,7 +27,7 @@ Referencing the KickStarter data that was provided, I used the COUNTIF function 
 
 **Visualization**
 Next a Line Graph was made to display the Number of Successful projects, Number of Failed Projects and the Number of Canceled Projects for each Goal cohort. This allowed us to visually see how each campaign performed in each Goal cohort.
-See File Theater_Outcomes_vs_Launch.png for Graph
+See File Theater_Outcomes_vs_Launch.png for Graph [https://github.com/JoePizz/UToronto_Assignments/blob/main/Theater_Outcomes_vs_Launch.png]
 
 
 **Challenges and Difficulties Encountered**
@@ -41,13 +41,13 @@ See File Theater_Outcomes_vs_Launch.png for Graph
 **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
 **Conclusion 1**
-May, June and July appeared to be the optimal months to run the kickstarter campaigns. Based on number of successful campaigns and the percentage of successful campaigns. See File Percent_Successful for Table.
+May, June and July appeared to be the optimal months to run the kickstarter campaigns. Based on number of successful campaigns and the percentage of successful campaigns. See File Percent_Successful for Table. [https://github.com/JoePizz/UToronto_Assignments/blob/main/Percent_Successful.png]
 	
 **Conclusion 2**
 December was the least optimal month to run kickstarter campaigns based on the success percentage and number of successful campaigns.
 
 **What can you conclude about the Outcomes based on Goals?**
-Projects with lower goals had a higher success rate. For example campaigns with a goal of $4,999 or less had a total success rate of 73% while campaigns with a goal of $5,000 or more had a success rate of just 50%. Additionally, the campaigns with a goal of $4,999 or less were more consistently successful. Almost each month in these two goal cohorts had a success rate of at least 57%, with the exception of December campaigns that were run with a goal of less than $1,000. To see a visualization of this table see file: Successful_Campaign_Goals
+Projects with lower goals had a higher success rate. For example campaigns with a goal of $4,999 or less had a total success rate of 73% while campaigns with a goal of $5,000 or more had a success rate of just 50%. Additionally, the campaigns with a goal of $4,999 or less were more consistently successful. Almost each month in these two goal cohorts had a success rate of at least 57%, with the exception of December campaigns that were run with a goal of less than $1,000. To see a visualization of this table see file: Successful_Campaign_Goals [https://github.com/JoePizz/UToronto_Assignments/blob/main/Percent_Successful.png]
 
 **What are some limitations of this dataset?**
 In order to analyze the overall effectiveness of the fundraising you will need the cost in dollars it took to run each of these campaigns as well as the time that it costed Louise. A campaign could have surpassed its goal but there is the possibility that it ran over budget or that it took too much time to put together. On the other hand a campaign could have missed its goal but it was quick or was well under budget.
